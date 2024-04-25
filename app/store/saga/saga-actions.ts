@@ -1,0 +1,5 @@
+export const sagaActions = {
+  LOGIN_REQUEST: "LOGIN_REQUEST",
+    REGISTER_USER: "REGISTER_USER",
+    EDIT_PROFILE: "EDIT_PROFILE",
+  }; 
