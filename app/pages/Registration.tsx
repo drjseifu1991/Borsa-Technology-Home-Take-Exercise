@@ -123,7 +123,6 @@ export const RegistrationPage = () => {
                             <GooglePlacesAutocomplete
                                 placeholder="Address"
                                 onPress={(data) => {
-                                    console.log(data);
                                     setFieldValue("address", data.description);
                                 }}
                                 query={{
