@@ -15,31 +15,36 @@ This React Native app is developed for the Borsa Technology Home Take Exercise. 
 
 ## Installation
 
-1. **Clone the repository**: 
+1. **Clone the repository**:
+
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/drjseifu1991/Borsa-Technology-Home-Take-Exercise.git
    ```
 
-2. **Navigate to the project directory**: 
+2. **Navigate to the project directory**:
+
    ```bash
    cd your-project-directory
    ```
 
-3. **Install dependencies**: 
+3. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
-4. **Create a `.env` file**: 
+4. **Create a `.env` file**:
    Create a `.env` file in the project's root directory and add the following line, replacing `YOUR_MAP_API_KEY` with your actual Map API key:
+
    ```
    MAP_API_KEY=YOUR_MAP_API_KEY
    ```
 
-5. **Start the development server**: 
+5. **Start the development server**:
+
    ```bash
    npm start
    ```
 
-6. **Run the app**: 
+6. **Run the app**:
    Follow the Expo CLI instructions to run the app on your preferred simulator or device.
